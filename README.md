@@ -1,6 +1,6 @@
 # portfolio
 My first portfolio developed with HTML + CSS
-(https://portfolio-git-main-karinaromano-dev.vercel.app/)
+(https://portfoliokarina.vercel.app/)
 
 
 *HTML
