@@ -6,5 +6,5 @@ My first portfolio developed with HTML + CSS
 *HTML
 *CSS
 
-###By Karina Romano
+By Karina Romano
 ### Linkedin: https:/linkedin.com/in/karinaromano/
