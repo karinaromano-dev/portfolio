@@ -1,6 +1,6 @@
 # portfolio
 My first portfolio developed with HTML + CSS
-![image](https://portfolio-git-main-karinaromano-dev.vercel.app/))
+![image](https://portfolio-git-main-karinaromano-dev.vercel.app/)
 ##
 *HTML
 *CSS
